@@ -4,7 +4,7 @@ You've stumbled upon my github. I am not good at describing myself, so I will ma
 
 My interests are mostly in game-development, and my main obsession has been C++.
 
-- 🔭 I’m currently working on Pantry Raid! [Wishlist on Steam](https://store.steampowered.com/app/3582510/Pantry_Raid)
+- 🔭 I’m currently working on **Pantry Raid! [Wishlist on Steam](https://store.steampowered.com/app/3582510/Pantry_Raid)**
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Why I'm excited for C++26**
 
